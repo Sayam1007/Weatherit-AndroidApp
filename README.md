@@ -1,5 +1,5 @@
 # Weatherit-AndroidApp
- -> a api based Weather Android Application known as Weatherit using #kotlin in #androidstudio ide . 
+ -> an api based Weather Android Application known as Weatherit using #kotlin in #androidstudio ide . 
     Openweather #api is used for real time Weather information and additional features - 
     displaying last updated , Sunset Time , Sunrise Time , humidity , 
     Pressure and Wind Speed according to a specific location.
